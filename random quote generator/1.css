@@ -1,0 +1,33 @@
+body{
+    background-color: #090808;
+    font-style: italic;
+
+}
+#container{
+    background-color: #0E2431;
+    border: 5PX solid rgb(184, 167, 167);
+    height: 275px;
+    width: 750px;
+    margin: 200px auto;
+    text-align: center;
+}
+#btn{
+    margin: 30px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: rgb(184, 167, 167);
+    font-style: italic;
+}
+#btn:hover{
+    background-color: rgb(155, 145, 145);
+    font-size: 24px;
+    font-style: italic;
+    height: 70px;
+    width: 270px;
+}
+#output{
+    margin: 10px auto;
+    font-size: 26px;
+    color: white;
+}
